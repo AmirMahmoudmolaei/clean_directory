@@ -1,0 +1,43 @@
+{
+    "images": [
+        ".png",
+        ".jpg",
+        ".tif",
+        ".jtif",
+        ".jfif",
+        ".jpeg"
+    ],
+    "videos": [
+        ".mp4",
+        ".mkv",
+        "avi",
+        ".mov"
+    ],
+    "documents": [
+        ".txt",
+        ".pdf",
+        ".doc",
+        ".docx",
+        ".xls",
+        ".xlsx",
+        ".ppt",
+        ".pptx"
+    ],
+    "compressed": [
+        ".zip",
+        ".rar",
+        ".7z",
+        ".tar",
+        ".gz",
+        ".bz2"
+    ],
+    "executables": [
+        ".exe",
+        ".msi",
+        ".apk",
+        ".dmg"
+    ],
+    "torrents": [
+        ".torrent"
+    ]
+}
