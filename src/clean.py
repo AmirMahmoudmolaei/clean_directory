@@ -1,5 +1,6 @@
 import json
 import shutil
+import sys
 from pathlib import Path
 from typing import Union
 
@@ -61,5 +62,5 @@ class Oragnizefiles:
 
 if __name__ == "__main__":
     org_files = Oragnizefiles()
-    org_files('/mnt/c/Users/HP/Downloads')
+    org_files(sys.argv[1])
     logger.info("Done!")

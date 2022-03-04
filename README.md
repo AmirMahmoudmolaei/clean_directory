@@ -9,5 +9,5 @@ export PYTHONPATH=${PWD}
 '''
 Then run
 '''
-python clean.py
+python src/clean.py dir_to_clean
 '''
